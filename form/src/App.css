@@ -1,0 +1,43 @@
+
+
+
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+input[type = "text"] {
+  width: 300px;
+  display: block;
+  background-color: rgb(250, 255, 255);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+input[type = "email"] {
+  width: 300px;
+  display: block;
+  background-color: rgb(250, 255, 255);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+input[type = "password"] {
+  width: 300px;
+  display: block;
+  background-color: rgb(250, 255, 255);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.sub-item {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+
+
+
+

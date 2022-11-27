@@ -37,6 +37,37 @@ input[type = "password"] {
   margin-bottom: 15px;
 }
 
+.save-button {
+  text-align: center;
+  height: 20px;
+  
+}
+
+input[type = "submit"] {
+  background-color: #2196f3;
+  padding: 10px;
+  width: 30%;
+  color: aliceblue;
+  font-weight: 100;
+  text-transform: uppercase;
+  border-radius: 12px;
+  border-color: #2196f3;
+}
+
+
+.mandatory-field{
+  color:rgb(255, 0, 0);
+  background-color: rgb(255, 255, 255);
+  margin-left: 13%;
+}
+
+h2{
+  background-color: aquamarine;
+  justify-content: center;
+  text-align: center;
+  border-bottom: #2196f3;
+  padding: 10px 0px 10px 0;
+}
 
 
 
